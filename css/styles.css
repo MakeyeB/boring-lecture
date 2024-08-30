@@ -1,3 +1,11 @@
+.intro {
+  color:white;
+}
+
+.start {
+  color:blanchedalmond;
+}
+
 body {
   background-color:darkslategray;
 }
@@ -6,31 +14,7 @@ h1 {
   color:white;
 }
 
-h2.intro {
-  color:white;
-}
-
-h2.start {
-  color:blanchedalmond;
-}
-
-h2 {
-  color:lightgray;
-}
-
-p.intro {
-  color:white;
-}
-
-p.start {
-  color:blanchedalmond;
-}
-
-p {
-  color:lightgray;
-}
-
-ul {
+.main {
   color:lightgray;
 }
 
