@@ -2,34 +2,42 @@ body {
   background-color:darkslategray;
 }
 
+h1 {
+  color:white;
+}
+
 h2.intro {
   color:white;
 }
 
-p.intro {
-  color:white;
-}
-
-p {
-  color:lightgray;
+h2.start {
+  color:blanchedalmond;
 }
 
 h2 {
   color:lightgray;
 }
 
-h1 {
+p.intro {
   color:white;
+}
+
+p.start {
+  color:blanchedalmond;
+}
+
+p {
+  color:lightgray;
 }
 
 ul {
   color:lightgray;
 }
 
-a {
-  color:cadetblue;
-}
-
 a:visited {
   color:aquamarine;
+}
+
+a {
+  color:cadetblue;
 }
