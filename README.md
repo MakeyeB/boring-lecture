@@ -1,7 +1,7 @@
 # Boring Lecture
 
 By Makeye Buchanan
-A webpage with the theme of 'boring lecture'.
+A webpage with the theme of 'Boring Lecture'.
 
 #### Technologies Used
 
@@ -14,9 +14,10 @@ This webpage consists of a lecture about HTML from the view of an early student 
 
 ## Setup/Installation
 
-Clone this repository to your desktop.
-Navigate to the top level of the directory.
-Open index.html in your browser.
+1. Click on the green 'code' button.
+2. Download ZIP.
+3. Enter your file explorer and look for the ZIP file 'Boring Lecture', which should be in your Downloads.
+4. Right click on the file and click 'Extract All' then 'Extract'.
 
 ## License
 
